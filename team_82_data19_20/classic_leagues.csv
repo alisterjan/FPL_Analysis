@@ -1,0 +1,26 @@
+,id,name,short_name,created,closed,rank,max_entries,league_type,scoring,admin_entry,start_event,entry_can_leave,entry_can_admin,entry_can_invite,has_cup,cup_league,cup_qualified,entry_rank,entry_last_rank
+0,13,Man Utd,team-13,2021-06-22T10:37:33.112809Z,False,,,s,c,,1,False,False,False,False,,,34205,18996
+1,261,England,region-241,2021-06-22T10:37:38.498997Z,False,,,s,c,,1,False,False,False,False,,,37458,17843
+2,276,Gameweek 1,event-1,2021-06-22T10:37:38.853542Z,False,,,s,c,,1,False,False,False,False,,,131654,65693
+3,314,Overall,overall,2021-06-22T10:37:39.651966Z,False,,,s,c,,1,False,False,False,False,,,131654,65693
+4,322,The FFCommunity Shield,,2021-06-22T11:12:17.183930Z,False,,,x,c,372.0,1,True,False,True,True,,,2318,1288
+5,361,Fantasy Football Scout Members,,2021-06-22T11:12:42.130540Z,False,,,x,c,103.0,1,True,False,False,False,,,2799,1468
+6,392,www.fantasyfootball247.co.uk,,2021-06-22T11:12:58.224965Z,False,,,x,c,338.0,1,True,False,False,False,,,1195,620
+7,588,FPL JUiCE League,,2021-06-22T11:13:57.985150Z,False,,,x,c,815.0,1,True,False,False,True,,,176,101
+8,2288,FPL Alerts,,2021-06-22T11:22:44.894280Z,False,,,x,c,11188.0,1,True,False,False,False,,,1043,540
+9,7174,Beat the @FPLGeneral,,2021-06-22T11:52:25.545541Z,False,,,x,c,1956.0,1,True,False,False,False,,,2713,1408
+10,12188,Always Cheating Super League,,2021-06-22T12:22:28.898072Z,False,,,x,c,33725.0,1,True,False,False,False,,,2506,1249
+11,14695,Planet #FPL Podcast,,2021-06-22T12:36:16.436566Z,False,,,x,c,12971.0,1,True,False,False,True,,,687,373
+12,30379,Pig’s Money League *free entry,,2021-06-22T14:57:57.511410Z,True,,,x,c,45229.0,1,True,False,False,False,,,454,245
+13,75181,FPL Fairy Prize League,,2021-06-24T01:18:32.866477Z,False,,,x,c,45738.0,1,True,False,False,False,,,1420,769
+14,116826,Hub Contributors,,2021-06-28T12:47:02.989464Z,False,,,x,c,3500.0,1,True,False,False,False,,,23,7
+15,153012,OurMFC FPL League,,2021-07-05T21:52:42.381995Z,False,,,x,c,847624.0,1,True,False,False,True,,,16,9
+16,169392,fantasyfootballfix.com,,2021-07-09T16:49:47.881192Z,False,,,x,c,2328.0,1,True,False,False,True,,,869,486
+17,264427,LLNP,,2021-07-20T18:49:34.577561Z,False,,,x,c,372.0,1,True,False,False,True,,,3,1
+18,365011,FalconsFPL,,2021-07-27T20:21:32.733947Z,False,,,x,c,207589.0,1,True,False,False,False,,,2051,1180
+19,517485,Let's Cook - £500 League 🙌,,2021-08-03T12:57:11.351686Z,False,,,x,c,3971.0,1,True,False,False,False,,,794,424
+20,523172,MPL,,2021-08-03T15:43:31.937955Z,False,,,x,c,2454073.0,1,True,False,False,False,,,2,2
+21,557169,The DraftGym League,,2021-08-04T14:06:42.919835Z,False,,,x,c,1192.0,1,True,False,False,True,,,60,34
+22,599505,"Fantasy Football Hub £5,000",,2021-08-05T13:26:21.660150Z,True,,,x,c,3500.0,1,True,False,False,False,,,2473,1362
+23,989713,getplaymaker.app Prize League,,2021-08-11T06:16:16.654061Z,True,,,x,c,913.0,1,True,False,False,False,,,619,357
+24,1172491,FPL Salah's £500 Prize League,,2021-08-12T13:48:09.078974Z,False,,,x,c,1619.0,1,True,False,False,False,,,340,179
